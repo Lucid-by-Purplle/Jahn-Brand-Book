@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (in case anything is added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / dist (none today, future-proofing)
+dist/
+build/
+
+# Local-only tooling
+.claude/
+
+# Env files (none today, paranoia)
+.env
+.env.*

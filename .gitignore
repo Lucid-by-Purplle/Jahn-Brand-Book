@@ -26,3 +26,6 @@ build/
 # Env files (none today, paranoia)
 .env
 .env.*
+
+# Source documents — kept locally for editing, not deployed to Pages
+docs/
